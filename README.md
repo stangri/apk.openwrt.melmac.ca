@@ -1,1 +1,9 @@
-# apk.openwrt.melmac.net
+# stangri's OpenWrt packages repo (for apk binaries)
+
+This is the repository for the packages I'm maintaining for OpenWrt routers with apk. For more information check out [documentation](https://docs.openwrt.melmac.net) or [browse packages' binaries (apk) at GitHub](https://github.com/stangri/apk.openwrt.melmac.net).
+
+You can also visit the ipk binaries repository at [https://repo.openwrt.melmac.net](https://repo.openwrt.melmac.net).
+
+<!-- markdownlint-disable MD033 -->
+
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0604edb4340d43f7882211fe581bdfdd"}'></script>
