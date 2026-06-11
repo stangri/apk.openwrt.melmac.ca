@@ -1,8 +1,8 @@
-# stangri's OpenWrt packages repo (for apk binaries)
+# MOSSDeF OpenWrt packages repo (for apk binaries)
 
-This is the repository for the packages I'm maintaining for OpenWrt devices with apk. For more information check out [documentation](https://docs.openwrt.melmac.ca) or [browse packages' apk binaries at GitHub](https://github.com/stangri/apk.openwrt.melmac.ca).
+This is the package repo for the OpenWrt apk packages maintained under MOSSDeF (Melmac Open Source Software Development Foundation). For more information check out [documentation](https://docs.mossdef.org) or [browse packages' apk binaries at GitHub](https://github.com/mossdef-org/apk.mossdef.org).
 
-You can also visit the ipk binaries repository at [https://repo.openwrt.melmac.ca](https://repo.openwrt.melmac.ca).
+You can also visit the ipk binaries repository at [https://ipk.mossdef.org](https://ipk.mossdef.org).
 
 <!-- markdownlint-disable MD033 -->
 
